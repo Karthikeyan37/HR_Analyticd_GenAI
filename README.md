@@ -1,2 +1,2 @@
-# HR_Analyticd_GenAI
+# HR_Analytics_GenAI
 Recruiting made easy :)
