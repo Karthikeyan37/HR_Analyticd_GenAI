@@ -1,0 +1,10 @@
+streamlit==1.36.0
+sentence-transformers==2.6.1
+PyPDF2==3.0.1
+nltk==3.8.1
+qdrant-client==1.9.0
+openai==1.35.14
+langchain-experimental==0.0.59
+langchain-community==0.2.5
+stanza==1.8.1
+torch==2.2.2
